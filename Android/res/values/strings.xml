@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android</string>
+    <string name="hello_world">跳转成功</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_object_animator">ObjectAnimatorActivity</string>
+    <string name="title_activity_frame__of__animation">Frame_Of_AnimationActivity</string>
+    <string name="title_activity_layout_animation">LayoutAnimationActivity</string>
+    <string name="title_activity_show_intent">ShowIntentActivity</string>
+    <string name="title_activity_appoint">AppointActivity</string>
+    <string name="title_activity_sharedprefences">SharedPreferencesActivity</string>
+    <string name="title_activity_files">FilesActivity</string>
+    <string name="title_activity_my_provider">MyProviderActivity</string>
+    <string name="title_activity_ansynctask">AsnyscTaskActivity</string>
+
+</resources>
